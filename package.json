@@ -1,19 +1,19 @@
 {
-  "name": "fas",
+  "name": "dat",
   "version": "1.0.0",
-  "description": "ffgb",
+  "description": "no",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "sdfa"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DatChau/thesis.git"
   },
   "keywords": [
-    "noo"
+    "f"
   ],
-  "author": "dat",
+  "author": "ds",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DatChau/thesis/issues"
