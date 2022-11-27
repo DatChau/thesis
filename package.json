@@ -1,19 +1,19 @@
 {
-  "name": "dat",
-  "version": "1.0.0",
+  "name": "test",
+  "version": "8.19.2",
   "description": "no",
   "main": "index.html",
   "scripts": {
-    "test": "sdfa"
+    "test": "no"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DatChau/thesis.git"
   },
   "keywords": [
-    "f"
+    "dat"
   ],
-  "author": "ds",
+  "author": "dat",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DatChau/thesis/issues"
